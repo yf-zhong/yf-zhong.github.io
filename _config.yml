@@ -36,7 +36,7 @@ plugins:
   - jekyll-include-cache
 
 include: ["_pages"]
-
+minimal_mistakes_skin: "dark"
 defaults:
   # _pages
   - scope:
