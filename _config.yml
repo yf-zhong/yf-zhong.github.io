@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: miniminimal-mistakes-jekyllma
+theme: minima
 plugins:
   - jekyll-feed
 
