@@ -1,5 +1,5 @@
 ---
-title: Yifan Zhong's Portfolio
+title: Yifan(Ivan) Zhong
 layout: collection
 permalink: /portfolio/
 collection: portfolio
@@ -7,7 +7,6 @@ entries_layout: grid
 classes: wide
 ---
 
-# Yifan(Ivan) Zhong
 
 ## EDUCATION
 
