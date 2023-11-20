@@ -8,7 +8,7 @@ classes: wide
 
 excerpt: "Hi, this is excerpt"
 header:
-#   image: /assets/images/foo-bar-identity.jpg
+  image: /assets/images/profile.jpg
 #   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "EDUCATION"
