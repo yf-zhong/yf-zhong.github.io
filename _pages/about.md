@@ -6,7 +6,7 @@ subtitle: M.S. CS @<a href='https://www.ucla.edu/'>UCLA</a> | EECS @ <a href='ht
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Los Angeles, CA</p>
