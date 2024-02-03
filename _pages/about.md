@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. CS @<a href='https://www.ucla.edu/'>UCLA</a> | EECS @ <a href='https://www.berkeley.edu/'>UC Berkeley</a> | ex-SDE Intern @Microsoft
+# subtitle: M.S. CS @<a href='https://www.ucla.edu/'>UCLA</a> | EECS @ <a href='https://www.berkeley.edu/'>UC Berkeley</a> | ex-SDE Intern @Microsoft
 
 profile:
   align: right
