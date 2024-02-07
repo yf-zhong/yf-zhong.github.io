@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Operating System
-description: PintOS - Operating System Framework for x86 Architecture
-img: assets/img/cs162-bean.png
+title: PintOS
+description: Operating System Framework for x86 Architecture
+img: assets/img/os-fig.webp
 importance: 1
-category: Course Project
+category: Project
 related_publications: false
 ---
 

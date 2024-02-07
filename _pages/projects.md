@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my past projects
 nav: true
 nav_order: 2
-display_categories: [Course Project]
+display_categories: [Internship, Project]
 horizontal: false
 ---
 
