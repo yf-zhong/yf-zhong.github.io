@@ -2,7 +2,7 @@
 layout: page
 title: Experience
 permalink: /experience/
-description: A growing collection of my past projects
+description: A growing collection of my past internship and projects.
 nav: true
 nav_order: 2
 display_categories: [Internship, Project]
