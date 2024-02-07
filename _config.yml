@@ -6,9 +6,9 @@ title: Yifan Zhong # the website title (if blank, full name will be used instead
 first_name: Yifan
 middle_name: 
 last_name: Zhong
-email: ivanfy1027[at]gmail[dot]com
+email: yzhong5[at]berkeley[dot]edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Yifan Zhong's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

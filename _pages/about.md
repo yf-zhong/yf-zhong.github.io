@@ -14,7 +14,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi there! My name is Yifan Zhong. I’m currently a second-year master’s student in *Computer Science* at [University of California, Los Angeles](https://www.ucla.edu/), having previously obtained my Bachelor’s degree in *Electrical Engineering and Computer Science* from [University of California, Berkeley](https://www.berkeley.edu/).

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: End-to-End Encrypted File-Sharing System
+title: Cryptographic
 description: End-to-End Encrypted File-Sharing System
-img: assets/img/3.jpg
+img: assets/img/e2e_fig.webp
 importance: 2
 category: Course Project
 giscus_comments: true
