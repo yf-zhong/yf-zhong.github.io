@@ -40,55 +40,34 @@
       "endDate": "05-2022"
     }
   ],
-  // "work": [
-  //   {
-  //     "name": "Institute for Advanced Study, Princeton University",
-  //     "position": "Professor of Theoretical Physics",
-  //     "url": "https://example.com",
-  //     "startDate": "1933-01-01",
-  //     "endDate": "1955-01-01",
-  //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-  //     "highlights": [
-  //       "Relativity"
-  //     ]
-  //   }
-  // ],
-  // "projects": [
-  //   {
-  //     "name": "Quantum Computing",
-  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-  //     "highlights": [
-  //       "Quantum Teleportation",
-  //       "Quantum Cryptography"
-  //     ],
-  //     "startDate": "2018-01-01",
-  //     "endDate": "2018-01-01",
-  //     "url": "https://example.com"
-  //   }
-  // ],
-  // "skills": [
-  //   {
-  //     "name": "Physics",
-  //     "keywords": [
-  //       "Quantum Mechanics",
-  //       "Quantum Computing",
-  //       "Quantum Information",
-  //       "Quantum Cryptography",
-  //       "Quantum Communication",
-  //       "Quantum Teleportation"
-  //     ]
-  //   }
-  // ],
-  "languages": [
+  "work": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Shepherd Money",
+      "position": "Backend Engineer Intern",
+      "url": "https://shepherdmoney.com",
+      "startDate": "2023-06",
+      "endDate": "2023-09",
+      "summary": "Migrated the backend of a personal finance management app from Node.js to Spring Boot, effectively consolidating multiple banking data sources within a unified, streamlined application.",
+      "highlights": [
+        "Open Banking",
+        "Spring Boot",
+        "Unit Testing",
+        "Backend Development"
+      ]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Microsoft",
+      "position": "Software Engineer Intern",
+      "url": "https://microsoft.com",
+      "startDate": "2021-07",
+      "endDate": "2021-09",
+      "summary": "Implemented REST APIs with X++ (Dynamic AX) empowering vendors to convert unsettled receivables into digital assets for immediate transactions on a decentralized financial system to ease the cash flow pressure.",
+      "highlights": [
+        "Enterprise Software",
+        "Decentralized Finance",
+        "Data Entity Design",
+        "Backend Development"
+      ]
     }
   ]
 }
