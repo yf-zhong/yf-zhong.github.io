@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Experience
-permalink: /experience/
-description: A growing collection of my past internship and projects.
+title: Project
+permalink: /project/
+description: A growing collection of my project list.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [Internship, Project]
 horizontal: false
 ---

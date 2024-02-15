@@ -1,11 +1,7 @@
 {
   "basics": {
     "name": "Yifan Zhong",
-    "label": "M.S. CS @UCLA",
     "email": "yzhong5 [at] berkeley [dot] edu",
-    "phone": "(xxx)xxx-xxxx",
-    "url": "https://yf-zhong.github.io/",
-    "summary": "A full-time job seeker",
     "location": {
       "address": "",
       "postalCode": "CA 90064",
@@ -67,6 +63,69 @@
         "Decentralized Finance",
         "Data Entity Design",
         "Backend Development"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cloud Offloading for Real-Time Visual Effect on Smart Glass",
+      "summary": "Designed and executed a cloud offloading system utilizing Java with Android Studio, which enhanced the smoothness and immersion of user experiences on AR glasses.",
+      "highlights": ["Cloud Computing", "Augmented Reality"],
+      "startDate": "2023-04",
+      "endDate": "2023-06"
+    },
+    {
+      "name": "PintOS",
+      "summary": "Designed a lightweight operating system for the x86 instruction set architecture in C with support for argument passing, process control and file operation system calls, and floating-point operations.",
+      "highlights": ["Operating System", "x86 Architecture", "Multi-threading"],
+      "startDate": "2022-01",
+      "endDate": "2022-05",
+      "url": "https://github.com/yf-zhong/pintos-operating-system-framework-for-x86-architecture"
+    },
+    {
+      "name": "End-to-End Encrypted File Sharing System",
+      "summary": "Developed Go-based file system APIs, facilitating encrypted file storage and concurrent modifications across multiple devices.",
+      "highlights": ["Cryptography", "File System"],
+      "startDate": "2022-03",
+      "endDate": "2022-05",
+      "url": "https://github.com/yf-zhong/end-to-end-encrypted-file-sharing-system"
+    },
+    {
+      "name": "RookieDB",
+      "summary": "Developed a Java-based database system, incorporating a multi-granularity locking mechanism for transaction concurrency and a multi-layered architecture to manage lockable objects and orders of transaction execution.",
+      "highlights": ["Database System"],
+      "startDate": "2021-08",
+      "endDate": "2021-11"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Language",
+      "icon": "fa fa-code",
+      "keywords": [
+        "Java", "C/C++", "Python", "Go", "SQL",
+        "Assembly Language (RISC-V)", "HTML/CSS",
+        "JavaScript","X++", "Ruby"
+      ]
+    },
+    {
+      "name": "Toolkits",
+      "icon": "fa fa-code-fork ",
+      "keywords": [
+        "Linux/Unix", "Git", "Microsoft Azure", "MongoDB",
+        "Heroku", "AWS EC2", "Android Studio", "Visual Studio",
+        "Dynamics 365", "Postman", "LaTeX", "Docker", "Kubernetes"
+      ]
+    },
+    {
+      "name": "Framework/Libraries",
+      "icon": "fa fa-book",
+      "keywords": [
+        "Spring Boot", "Mockito", "Flask", "Bootstrap",
+        "OpenMP", "MPI", "NVIDIA CUDA", "Merlin",
+        "MediaCodec", "React", "Node.js", "Ruby on Rails",
+        "jQuery", "JUnit 5", "pandas", "scikit-learn", "NumPy",
+        "Jinja", "Open Data Protocol"
       ]
     }
   ]
