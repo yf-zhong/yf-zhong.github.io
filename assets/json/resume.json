@@ -1,7 +1,10 @@
 {
   "basics": {
     "name": "Yifan Zhong",
+    "label": "Seeking 2024 New Grad Roles: Backend/Full-Stack",
     "email": "yzhong5 [at] berkeley [dot] edu",
+    "url": "https://yf-zhong.github.io/",
+    "summary": "I'm currently pursuing a Master's degree in Computer Science at UCLA, with a focused interest in backend and full-stack development.",
     "location": {
       "address": "",
       "postalCode": "CA 90064",
@@ -13,12 +16,16 @@
       {
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/yf-zhong/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://www.github.com/yf-zhong/"
       }
     ]
   },
   "education": [
     {
-      "institution": "University of California, Los Angeles",
+      "institution": "University of California - Los Angeles",
       "location": "Los Angeles, CA",
       "studyType": "Master's Degree",
       "url" : "https://www.ucla.edu/",
@@ -27,7 +34,7 @@
       "endDate": "06-2024"
     },
     {
-      "institution": "University of California Berkeley",
+      "institution": "University of California - Berkeley",
       "location": "Berkeley, CA",
       "url": "https://www.berkeley.edu/",
       "studyType": "Bachelor's Degree",
@@ -63,6 +70,17 @@
         "Decentralized Finance",
         "Data Entity Design",
         "Backend Development"
+      ]
+    },
+    {
+      "name": "Dahua Technology",
+      "position": "Engineer Intern",
+      "url": "https://www.dahuasecurity.com/",
+      "startDate": "2019-06",
+      "endDate": "2019-09",
+      "summary": "Enhanced the new hire onboarding process by developing a tutorial website that supports user registration and login, enables video uploads, and facilitates online forum interactions, streamlining the orientation experience.",
+      "highlights": [
+        "Web Development"
       ]
     }
   ],
@@ -127,6 +145,18 @@
         "jQuery", "JUnit 5", "pandas", "scikit-learn", "NumPy",
         "Jinja", "Open Data Protocol"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": "fa fa-comments"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": "fa fa-globe"
     }
   ]
 }
