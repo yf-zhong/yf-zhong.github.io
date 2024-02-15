@@ -110,7 +110,7 @@
     },
     {
       "name": "Toolkits",
-      "icon": "fa fa-code-fork ",
+      "icon": "fa fa-code-fork",
       "keywords": [
         "Linux/Unix", "Git", "Microsoft Azure", "MongoDB",
         "Heroku", "AWS EC2", "Android Studio", "Visual Studio",
