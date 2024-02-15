@@ -100,32 +100,16 @@
   ],
   "skills": [
     {
-      "name": "Programming Language",
-      "icon": "fa fa-code",
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Java", "C/C++", "Python", "Go", "SQL",
-        "Assembly Language (RISC-V)", "HTML/CSS",
-        "JavaScript","X++", "Ruby"
-      ]
-    },
-    {
-      "name": "Toolkits",
-      "icon": "fa fa-code-fork",
-      "keywords": [
-        "Linux/Unix", "Git", "Microsoft Azure", "MongoDB",
-        "Heroku", "AWS EC2", "Android Studio", "Visual Studio",
-        "Dynamics 365", "Postman", "LaTeX", "Docker", "Kubernetes"
-      ]
-    },
-    {
-      "name": "Framework/Libraries",
-      "icon": "fa fa-book",
-      "keywords": [
-        "Spring Boot", "Mockito", "Flask", "Bootstrap",
-        "OpenMP", "MPI", "NVIDIA CUDA", "Merlin",
-        "MediaCodec", "React", "Node.js", "Ruby on Rails",
-        "jQuery", "JUnit 5", "pandas", "scikit-learn", "NumPy",
-        "Jinja", "Open Data Protocol"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ]
