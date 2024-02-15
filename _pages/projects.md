@@ -5,7 +5,7 @@ permalink: /project/
 description: A growing collection of my project list.
 nav: true
 nav_order: 3
-display_categories: [Internship, Project]
+display_categories: [Project]
 horizontal: false
 ---
 

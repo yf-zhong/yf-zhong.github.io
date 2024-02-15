@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Cryptographic
+title: Lock Box
 description: End-to-End Encrypted File-Sharing System
 img: assets/img/e2e-fig.webp
 importance: 2
 category: Project
-giscus_comments: true
+giscus_comments: false
 ---
 
 ## Overview
+
+[Link to the Project](https://github.com/yf-zhong/end-to-end-encrypted-file-sharing-system)
 
 This project introduces a client application for a secure file sharing system, leveraging various cryptographic primitives to ensure data security. Imagine something similar to Dropbox, but secured with cryptography so that the server cannot view or tamper with user data.
 

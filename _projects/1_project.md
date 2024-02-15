@@ -10,7 +10,9 @@ related_publications: false
 
 ## Overview
 
-----
+[Link to the Project](https://github.com/yf-zhong/pintos-operating-system-framework-for-x86-architecture)
+
+Pintos is an educational operating system for the x86 architecture. It supports multithreading, loading and running user programs, and a file system. The key achievements are as below:
 
 - Designed a lightweight operating system for the x86 instruction set architecture in C with support for argument passing, process control and file operation system calls, and floating-point operations.
 - Implemented and integrated a multi-threading system for user programs, featuring an efficient alarm clock and strict priority scheduler with priority donation for kernel threads to prevent deadlock.
