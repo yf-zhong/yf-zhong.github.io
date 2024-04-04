@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Microsoft
-description: Software Engineer Intern
-img: assets/img/ms-logo.png
-importance: 1
-category: Internship
+title: "..."
+description: More project pages to add in the future
+img: assets/img/under-construction.png
+importance: 3
+category: Project
 related_publications: false
 ---
-07/2021 - 09/2021 @ Microsoft Cloud and AI
+Page under constuction.
