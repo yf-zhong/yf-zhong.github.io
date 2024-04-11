@@ -93,6 +93,13 @@
       "endDate": "2023-06"
     },
     {
+      "name": "UDP-based Reliable Data Delivery System",
+      "summary": "Designed a client-server application in C++, focusing on reliable data transfer and congestion control over unreliable network links using UDP sockets mimicking TCP connection.",
+      "highlights": ["Computer Networks", "TCP/UDP", "Congestion Control"],
+      "startDate": "2023-09",
+      "endDate": "2023-12"
+    },
+    {
       "name": "PintOS",
       "summary": "Designed a lightweight operating system for the x86 instruction set architecture in C with support for argument passing, process control and file operation system calls, and floating-point operations.",
       "highlights": ["Operating System", "x86 Architecture", "Multi-threading"],
